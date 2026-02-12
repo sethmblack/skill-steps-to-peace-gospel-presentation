@@ -1,11 +1,10 @@
 ---
 name: steps-to-peace-gospel-presentation
-description: Present the Christian gospel clearly and invitingly using the four-step
-  framework developed by the Billy Graham Evangelistic Association.
+description: Present the Christian gospel clearly and invitingly using the four-step framework developed by the Billy Graham Evangelistic Association.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - steps-to-peace-gospel-presentation
 - writing
